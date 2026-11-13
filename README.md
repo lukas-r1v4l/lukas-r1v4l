@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="100" src="assets/image/logo-branding_NO.BACKGROUND.png" alt="VAL Brand">
+  <img data-importer="image" height="100" src="assets/image/logo-without_bg(special).png" alt="VAL Brand">
 </div>
 <p align="center">
   <font size="6"><b>Lukas Rivaldo Harahap</b></font>
